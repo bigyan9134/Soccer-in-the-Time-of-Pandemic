@@ -12,6 +12,9 @@ statistically significant differences between the previous all seasons and pande
 how the Home teams have let their performance levels drop significantly in the absence of Home Team supporters in the stadium
 due to pandemic-related restrictions.
 
+Various visualization are included in the analysis as a tool to highlight the stark contrast between the 2020/21 season as 
+compared to seasons prior.
+
 The findings of this analysis could help the teams identify and pinpoint what aspect of their games needs to be addressed as
 a result of the absence of the supporters in the stadium.
 
@@ -28,3 +31,6 @@ a result of the absence of the supporters in the stadium.
   2. Numpy
   3. Scipy
   4. Jupyter Notebook
+  5. Matplotlib
+  6. Seaborn
+  7. PandaSQL
