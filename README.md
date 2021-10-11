@@ -1,7 +1,7 @@
 # Soccer-in-the-Time-of-Pandemic
 
-An analysis of the 2020/21 Premier League Soccer Season to study the impact of pandemic in the performance of top and bottom 
-finishing teams.
+An analysis of the 2020/21 Premier League Soccer Season to study the impact of the COVID pandemic in the performance of top
+and bottom finishing teams.
 
 Cleaning, filtering and transforming of data that was scraped from the official Premier League website was done using Python
 libraries like Pandas, Numpy and Scipy.
